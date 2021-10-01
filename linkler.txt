@@ -1,0 +1,33 @@
+
+
+owasp tr
+https://www.webguvenligi.org/
+
+yazýlým güvenliði webinar
+https://www.youtube.com/watch?v=deEiUpnsmyA
+
+yazýlým güvenliði tool
+https://www.microfocus.com/en-us/cyberres/application-security
+
+yazýlým güvenliði kitap
+https://www.kitapyurdu.com/kitap/yazilim-guvenligi-saldiri-ve-savunma/319268.html
+
+BDD tool
+https://cucumber.io/
+
+
+Anti pattern makale
+https://www.buraksenyurt.com/post/AntiPatterns-Ders-Notlarc4b1m
+
+Unit Test Sunum
+https://1drv.ms/p/s!Amo4MDOMor2-iDCKECfJ-eCh0bjG?e=QDC0Hg
+
+EF Core Unit Test
+https://docs.microsoft.com/tr-tr/ef/core/testing/
+
+Design Patterns
+https://refactoring.guru/design-patterns/csharp
+
+Xunit Sample
+https://github.com/xunit/samples.xunit
+

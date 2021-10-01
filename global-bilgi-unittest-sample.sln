@@ -19,6 +19,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalBilgi.Application", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalBilgi.Web", "GlobalBilgi.Web\GlobalBilgi.Web.csproj", "{08C49108-65FF-4296-9A04-92F1E3D08A29}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{26EFE1CB-E3A9-4B50-AC15-1AE30434BDA4}"
+	ProjectSection(SolutionItems) = preProject
+		linkler.txt = linkler.txt
+		MicroServices (1).pptx = MicroServices (1).pptx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
