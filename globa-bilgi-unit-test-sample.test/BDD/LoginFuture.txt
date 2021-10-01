@@ -1,0 +1,10 @@
+﻿Kullanıcı girişinde kullanıcı adı ve parola doğruysa VE @globalbilgi.com.tr içeriyorsa /Home a yönlendir. İçermiyorsa / client a yönelndir
+
+
+1) Login controller
+2) web user tablosunu güncelle
+3) view oluştur
+4) validationlarını yaz
+5) test et
+6) testi kapat
+
